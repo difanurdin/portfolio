@@ -1,0 +1,25 @@
+body{
+	background-color: #16A086;
+	margin: 0;
+	font-family: agatha;}
+
+.jumbotron{
+	height: 400px;
+	background-image: url('../img/wp.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -100px;
+	color: #eaeaea;
+}
+
+
+
+section{
+	min-height: 420px;
+}
+
+
+.contact{
+	color:#333;
+}
+
